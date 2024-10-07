@@ -1,3 +1,3 @@
-### Hi there 👋
+### hey 👋
 
-I'm Sebastiaan, a graduate student pursuing a Master's degree in Artificial Intelligence (AI) at the University of Amsterdam (UvA). I'm currently based in Amsterdam and constantly looking for opportunities to expand my knowledge and skills in AI :).
+i’m sebastiaan, an AI graduate from the university of amsterdam. currently building an AI video platform, focusing on scaling and automation in media.
